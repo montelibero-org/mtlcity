@@ -1,0 +1,25 @@
+# Montelibero Stellar Anchor <https://montelibero.org>
+# https://github.com/stellar/stellar-protocol/tree/master/ecosystem
+
+ACCOUNTS=[
+"GDUI7JVKWZV4KJVY4EJYBXMGXC2J3ZC67Z6O5QFP4ZMVQM2U5JXK2OK3",
+"GB76QROT6IIMHMGSAY5H6UUIVHIJUZ43OKUKYZKJA72RMLNMI6WKOPXM"
+]
+
+[DOCUMENTATION]
+ORG_NAME="MTLCITY"
+ORG_DBA="MTLCITY"
+ORG_URL="https://mtlcity.montelibero.org"
+ORG_LOGO="https://montelibero.org/images/logo.png"
+ORG_DESCRIPTION="MTLCITY - management company and land fund directly supporting all operations of Monteliberocity"
+ORG_OFFICIAL_EMAIL="montelibero.fspe@gmail.com"
+
+[[CURRENCIES]]
+code="MTLCITY"
+issuer="GDUI7JVKWZV4KJVY4EJYBXMGXC2J3ZC67Z6O5QFP4ZMVQM2U5JXK2OK3"
+status="live"
+display_decimals=7
+anchor_asset_type="other"
+name=" MTLCITY"
+desc="MTLCITY - these are crypto-shares guaranteeing equity participation in the ownership and management of all assets of Monteliberocity"
+image="https://montelibero.org/images/logo.png"
