@@ -12,7 +12,9 @@ ORG_DBA="MTLCITY"
 ORG_URL="https://mtlcity.montelibero.org"
 ORG_LOGO="https://montelibero.org/images/logo.png"
 ORG_DESCRIPTION="MTLCITY - management company and land fund directly supporting all operations of Monteliberocity"
+ORG_GITHUB="montelibero-org"
 ORG_OFFICIAL_EMAIL="montelibero.fspe@gmail.com"
+ORG_SUPPORT_EMAIL="montelibero.fspe@gmail.com"
 
 [[CURRENCIES]]
 code="MTLCITY"
