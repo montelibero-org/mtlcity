@@ -22,6 +22,7 @@ issuer="GDUI7JVKWZV4KJVY4EJYBXMGXC2J3ZC67Z6O5QFP4ZMVQM2U5JXK2OK3"
 status="live"
 display_decimals=7
 anchor_asset_type="other"
+is_unlimited=true
 name=" MTLCITY"
 desc="MTLCITY - these are crypto-shares guaranteeing equity participation in the ownership and management of all assets of Monteliberocity"
 image="https://mtlcity.montelibero.org/images/mtlcity-small-logo.png"
